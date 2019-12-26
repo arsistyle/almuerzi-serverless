@@ -1,0 +1,5 @@
+MONGO DB
+user: almuerzimaster
+pass: GK6TQSzqWdWbl6ko
+
+mongodb+srv://almuerzimaster:GK6TQSzqWdWbl6ko@almuerzidb-pcq1n.mongodb.net/test?retryWrites=true&w=majority
